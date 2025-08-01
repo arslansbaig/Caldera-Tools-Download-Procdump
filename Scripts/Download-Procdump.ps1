@@ -13,7 +13,7 @@ $procdumpURL     = "https://download.sysinternals.com/files/Procdump.zip"
 $payloadsPath    = "C:\Temp\Payloads"
 $artifactPath    = "C:\Temp\Artifacts"
 $zipFilePath     = "$payloadsPath\Procdump.zip"
-$logFilePath     = "$artifactPath\DownloadLog.txt"
+$logFilePath     = "$artifactPath\DownloadLog-T1059.001.txt"
 $logTime         = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
 
 # Ensure folders exist
