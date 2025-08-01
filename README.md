@@ -23,4 +23,4 @@ C:\
     ├── Payloads\
     │   └── procdump.exe (and other files)
     └── Artifacts\
-        └── Download-Procdump-Result.txt
+        └── DownloadLog-T1059.001.txt
