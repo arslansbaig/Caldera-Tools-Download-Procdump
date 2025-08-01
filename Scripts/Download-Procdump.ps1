@@ -4,7 +4,7 @@
 .DESCRIPTION
     This script automates the download and extraction of Sysinternals Procdump tool if it is not already running.
 .NOTES
-    Author  : YourName
+    Author  : Arslan Baig
     Tested  : Windows 10/11, PowerShell 5.1+
 #>
 
